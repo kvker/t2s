@@ -1,0 +1,1 @@
+!function(e,n){"object"==typeof exports&&"undefined"!=typeof module?module.exports=n():"function"==typeof define&&define.amd?define(n):(e="undefined"!=typeof globalThis?globalThis:e||self).index=n()}(this,function(){"use strict";return function(e,n){var t=Object.keys(n),n=Object.values(n);return new Function(...t,`return \`${e}\``)(...n)}});
